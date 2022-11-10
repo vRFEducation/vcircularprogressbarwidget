@@ -70,9 +70,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<p>
+    <img src="images/demo1.png" alt="Logo" width="80" height="80">
+</p>
+<p>
+    <img src="images/demo2.png" alt="Logo" width="80" height="80">
+</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
