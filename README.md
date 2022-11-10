@@ -18,7 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/vrahmanifard/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -70,12 +70,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p>
-    <img src="images/demo1.png" alt="Logo" width="80" height="80">
-</p>
-<p>
-    <img src="images/demo2.png" alt="Logo" width="80" height="80">
-</p>
+[![Product Name Screen Shot][product-screenshot1]]
+[![Product Name Screen Shot][product-screenshot2]]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -167,4 +163,9 @@ Project Link: [https://github.com/vRFEducation/vcricularprogressbarwidget](https
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+[product-screenshot1]: images/demo1.png
+[product-screenshot2]: images/demo2.png
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/vrahmanifard
 
