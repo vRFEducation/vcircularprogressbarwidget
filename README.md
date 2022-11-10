@@ -70,8 +70,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot1]]
-[![Product Name Screen Shot][product-screenshot2]]
+[![Product Name Screen Shot][product-screenshot1]
+![Product Name Screen Shot][product-screenshot2]]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,7 +80,7 @@
 
 ### Built With
 
-* [![Qt][Qt.io]][https://www.qt.io/]
+* [![Qt][Qt.io]][qt-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,4 +168,5 @@ Project Link: [https://github.com/vRFEducation/vcricularprogressbarwidget](https
 [product-screenshot2]: images/demo2.png
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vrahmanifard
+[qt-url]: https://qt.io/
 
