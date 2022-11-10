@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Vahid Rahmanifard - rahmanifard@live.com
 
-Project Link: [https://github.com/vRFEducation/vcricularprogressbarwidget](https://github.com/vRFEducation/vcricularprogressbarwidget)
+Project Link: [https://github.com/vRFEducation/vcircularprogressbarwidget](https://github.com/vRFEducation/vcircularprogressbarwidget)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
